@@ -150,5 +150,5 @@ int main()
     else if(player2_points>=ACHIEVE){printf("Player 2 WINS!!!\n");}
     
 
-
+return 0;
 }
